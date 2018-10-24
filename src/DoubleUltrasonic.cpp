@@ -40,6 +40,7 @@ void loop() {
   Serial.print(leftDistance);
   Serial.print(", Right distance : ");
   Serial.println(rightDistance);
+	
 
   if (rightDistance > errorDistance || leftDistance > errorDistance) {
     return;
