@@ -4,6 +4,6 @@ ShootingStar is Arduino-based Shooting support module. It makes you THE BEST Sho
 
 ## Participants
 
-* [Esot3riA](https://github.com/Esot3riA)
+* Usagi
 * Q
-* AWS
+* [Esot3riA](https://github.com/Esot3riA)
