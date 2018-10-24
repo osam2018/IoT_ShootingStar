@@ -9,7 +9,7 @@
 #define LEDPIN_RIGHT 7
 
 long distanceBoundary = 5;  // Ultrasonic sensor sensitivity
-long errorDistance = 1400;  // Ignorance boundary
+long errorDistance = 1400;  // Ignore boundary
 
 void setup() {
   Serial.begin(9600);
