@@ -22,12 +22,12 @@ ShootingStar는 두 개의 아두이노를 사용하며 다음과 같은 기능�
 
 ## 스크린샷
 
-![lcd_diagram](./lcd_diagram.png)
+![lcd_diagram](./img/lcd_diagram.png)
 
-![ultrasonic_diagram](./ultrasonic_diagram.png)
+![ultrasonic_diagram](./img/ultrasonic_diagram.png)
 
-![Gun1](./Gun1.jpeg)
+![Gun1](./img/Gun1.jpeg)
 
-![Gun2](./Gun2.jpeg)
+![Gun2](./img/Gun2.jpeg)
 
-![Gun3](./Gun3.jpeg)
+![Gun3](./img/Gun3.jpeg)
