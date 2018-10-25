@@ -1,6 +1,6 @@
 # :gun:ShootingStar
 
-ShootingStar is Arduino-based Shooting support module. It makes you THE BEST Shooter!
+ShootingStar is Arduino-based Shooting support module. It makes you THE STAR:star2:Shooter!
 
 ## Developers
 
