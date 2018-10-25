@@ -10,20 +10,24 @@ ShootingStar는 아두이노 기반 사격 보조 모듈입니다. 슈팅스타�
 
 ShootingStar는 두 개의 아두이노를 사용하며 다음과 같은 기능을 지원합니다.
 * 총이 기울었을 시 해당 방향의 경고 LED 점등
-* 사격 시 격발 수 체크, 스카우터 LCD에 표시
+* 사격 시 격발 수 자동 체크, 스카우터 LCD에 표시
 * 사격 목표물과의 거리 측정, 스카우터 LCD에 표시
 * 사격 완료 시 통제실에 자동 보고
 
 ## 팀원 소개
 
-* [Usagi](https://github.com/WooseokAn)
+* [WooseokAn](https://github.com/WooseokAn)
 * [tunabelly](https://github.com/zeroGravityTuna)
 * [Esot3riA](https://github.com/Esot3riA)
 
 ## 스크린샷
 
-![lcd_diagram](./presentation/img/lcd_diagram.png)
+![lcd_diagram](./lcd_diagram.png)
 
-![ultrasonic_diagram](./presentation/img/ultrasonic_diagram.png)
+![ultrasonic_diagram](./ultrasonic_diagram.png)
 
-![controltowerscreen](./presentation/img/ControlTowerScreen.png)
+![Gun1](./Gun1.jpeg)
+
+![Gun2](./Gun2.jpeg)
+
+![Gun3](./Gun3.jpeg)
