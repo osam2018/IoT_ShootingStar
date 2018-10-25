@@ -4,16 +4,14 @@
 #define ECHOPIN_1 3
 #define TRIGPIN_2 4
 #define ECHOPIN_2 5
-#define SWITCHPIN 7
-#define LEDPIN_LEFT 8
-#define LEDPIN_RIGHT 7
+#define LEDPIN_LEFT 7
+#define LEDPIN_RIGHT 8
 
-long distanceBoundary = 5;  // Ultrasonic sensor sensitivity
+long distanceBoundary = 2;  // Ultrasonic sensor sensitivity
 long errorDistance = 1400;  // Ignore boundary
 
 void setup() {
   Serial.begin(9600);
-  pinMode(SWITCHPIN, INPUT);
   pinMode(TRIGPIN_1, OUTPUT);
   pinMode(ECHOPIN_1, INPUT);
   pinMode(TRIGPIN_2, OUTPUT);
@@ -40,7 +38,7 @@ void loop() {
   Serial.print(leftDistance);
   Serial.print(", Right distance : ");
   Serial.println(rightDistance);
-	
+  
 
   if (rightDistance > errorDistance || leftDistance > errorDistance) {
     return;
@@ -56,5 +54,5 @@ void loop() {
     digitalWrite(LEDPIN_RIGHT, LOW);
   }
   
-  delay(200);
+  delay(500);
 }
