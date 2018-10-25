@@ -16,6 +16,14 @@ ShootingStar는 두 개의 아두이노를 사용하며 다음과 같은 기능�
 
 ## 팀원 소개
 
-* Usagi
+* [Usagi](https://github.com/WooseokAn)
 * [tunabelly](https://github.com/zeroGravityTuna)
 * [Esot3riA](https://github.com/Esot3riA)
+
+## 스크린샷
+
+![lcd_diagram](./presentation/img/lcd_diagram.png)
+
+![ultrasonic_diagram](./presentation/img/ultrasonic_diagram.png)
+
+![controltowerscreen](./presentation/img/ControlTowerScreen.png)
