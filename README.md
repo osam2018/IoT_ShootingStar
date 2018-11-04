@@ -29,5 +29,3 @@ ShootingStar는 두 개의 아두이노를 사용하며 다음과 같은 기능�
 ![Gun1](./img/Gun1.jpeg)
 
 ![Gun2](./img/Gun2.jpeg)
-
-![Gun3](./img/Gun3.jpeg)
